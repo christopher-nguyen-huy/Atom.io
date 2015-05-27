@@ -1,9 +1,8 @@
 ### Command
-	- ctrl-shift-P
+- ctrl-shift-P
 
 ### Grammar (Syntax/Language)
-	- ctrl-shift-L
+- ctrl-shift-L
 
 ### Panes
-	- ctrl-K, arrow
-	
+- ctrl-K, arrow
