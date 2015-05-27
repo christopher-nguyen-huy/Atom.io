@@ -15,7 +15,7 @@
 - ctrl-shift-L
 
 ### Panes
-- ctrl-K, ctrl-arrow
+- ctrl-K, arrow
 
 ### Bookmarks
 - F2 : Cycle through bookmarks forward
