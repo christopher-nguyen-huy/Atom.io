@@ -25,6 +25,9 @@ Remove context menu by renning removecontextmenu.reg
 - One dark UI
 	- Layout mode: compact
 
+### Packages to intall
+- minimap
+
 ### Settings
 - Audio Beep: false
 - Auto Hide Menu Bar: true
