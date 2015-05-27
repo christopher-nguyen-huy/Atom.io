@@ -10,6 +10,16 @@ Remove context menu by renning removecontextmenu.reg
 	- Slows down everything
 - Wrap guide
 	- The line at 80 characters
+- Autocomplete plus
+	- Pulls out all the words of the current file, including strings and comments
+	- I keep because otherwise, no snippets
+- Autoflow
+	- Wraps selection at 80 characters
+- Exception Reporting
+	- No need for them to hear anything
+- Git diff
+	- I use the cmd line
+- Open on Github
 
 ### Packages to configure
 - One dark UI
