@@ -17,7 +17,10 @@ Remove context menu by renning removecontextmenu.reg
 
 ### Settings
 - Audio Beep: false
+- Auto Hide Menu Bar: true
 - Auto Indent On Paste: false
-- Soft tabs: false
+- Font Size: 14
+- Show Indent Guide: false
+- Soft Tabs: false
+- Soft Wrap: true
 - Tab length: 4
-- Show indent guide: false
