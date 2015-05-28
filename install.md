@@ -1,7 +1,7 @@
 # Installation
 
 ### Context menu
-Remove context menu by renning removecontextmenu.reg
+Remove context menu by running removecontextmenu.reg
 
 ### Packages to disable
 - Metrics
