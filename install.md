@@ -32,8 +32,8 @@ Remove context menu by running removecontextmenu.reg
 	- Layout mode: compact
 ### Packages to intall
 - Minimap
-- Atom beautify
-	- beautifies json
+- Atom Beautify
+	- Beautifies json
 
 ### Settings
 - Audio Beep: false
