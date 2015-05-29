@@ -5,7 +5,7 @@ Remove context menu by running removecontextmenu.reg
 
 ### Packages to disable
 - Metrics
-	- Reports stuff to goodle
+	- Reports stuff to google
 - Spell check
 	- Slows down everything
 - Wrap guide
