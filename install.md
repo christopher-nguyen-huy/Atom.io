@@ -20,6 +20,12 @@ Remove context menu by running removecontextmenu.reg
 - Git diff
 	- I use the cmd line
 - Open on Github
+	- Not using only github as source hosting
+- Autosave
+	- Lets not use this until version 1.0 is out
+- Deprecation cop
+	- I'm not making plugins anytime until the api is standardized
+
 
 ### Packages to configure
 - One dark UI
