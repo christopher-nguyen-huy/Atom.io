@@ -30,10 +30,16 @@ Remove context menu by running removecontextmenu.reg
 ### Packages to configure
 - One dark UI
 	- Layout mode: compact
+
 ### Packages to intall
 - Minimap
+	- Somewhat broken
 - Atom Beautify
 	- Beautifies json
+- Date
+	- Inserts current date
+- Advanced New file
+	- Create file Instantly : true
 
 ### Settings
 - Audio Beep: false
