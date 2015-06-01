@@ -40,6 +40,7 @@ Remove context menu by running removecontextmenu.reg
 	- Inserts current date
 - Advanced New file
 	- Create file Instantly : true
+- ctrl-dir-scroll
 
 ### Settings
 - Audio Beep: false
