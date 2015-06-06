@@ -36,6 +36,7 @@ Remove context menu by running removecontextmenu.reg
 	- Somewhat broken
 - Atom Beautify
 	- Beautifies json
+	- Disable Analytics
 - Date
 	- Inserts current date
 - Advanced New file
