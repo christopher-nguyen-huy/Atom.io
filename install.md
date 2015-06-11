@@ -49,6 +49,7 @@ Remove context menu by running removecontextmenu.reg
 - Auto Indent On Paste: false
 - Font Size: 14
 - Show Indent Guide: false
+- Scroll past End: true
 - Soft Tabs: false
 - Soft Wrap: true
 - Tab length: 4
