@@ -30,6 +30,9 @@ Remove context menu by running removecontextmenu.reg
 ### Packages to configure
 - One dark UI
 	- Layout mode: compact
+- Whitespace
+	- Uncheck Ensure Single Trailing Newline
+		- When you save it deletes blank lines at the end of the file
 
 ### Packages to intall
 - Minimap
