@@ -20,3 +20,10 @@ We open a project folder using explorer, then the command prompt, then atom.
 
 1. Navigate into the project folder using explorer.
 2. `alt+d`, `cmd`, `atom .`
+
+## Font size issue
+https://discuss.atom.io/t/reset-zoom-on-text/8664
+1. Close atom
+2. Open config.cson
+3. Change the default font size
+4. Open atom again
