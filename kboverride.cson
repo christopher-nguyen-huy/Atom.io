@@ -1,3 +1,25 @@
+# Move line up and down
 'atom-workspace atom-text-editor:not([mini])':
-	'ctrl-shift-down': 'editor:move-line-down'
-	'ctrl-shift-up': 'editor:move-line-up'
+  'ctrl-shift-down': 'editor:move-line-down'
+  'ctrl-shift-up': 'editor:move-line-up'
+
+'.platform-win32 atom-workspace atom-text-editor:not(.mini)':
+  'ctrl-shift-up': 'editor:move-line-up'
+  'ctrl-shift-down': 'editor:move-line-down'
+
+# Reset zoom with ctrl-0
+'.platform-win32, .platform-linux':
+  'ctrl-0': 'window:reset-font-size'
+
+# Disable MRU tab switching
+'body':
+  'ctrl-tab ^ctrl': 'unset!'
+  'ctrl-tab': 'pane:show-next-item'
+  'ctrl-shift-tab ^ctrl': 'unset!'
+  'ctrl-shift-tab': 'pane:show-previous-item'
+
+# change the keybinding for ADD SELECTION ABOVE / BELOW
+# Should be ctrl-alt-up/down
+# 'body':
+#   'shift-alt-up': 'editor:add-selection-above'
+#   'shift-alt-down': 'editor:add-selection-below'
