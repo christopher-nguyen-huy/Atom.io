@@ -23,3 +23,7 @@
 # 'body':
 #   'shift-alt-up': 'editor:add-selection-above'
 #   'shift-alt-down': 'editor:add-selection-below'
+
+# Splt selection into multiple lines
+'atom-text-editor':
+  'ctrl-shift-l': 'editor:split-selections-into-lines'
