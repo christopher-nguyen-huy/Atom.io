@@ -26,4 +26,4 @@
 
 # Splt selection into multiple lines
 'atom-text-editor':
-  'ctrl-shift-l': 'editor:split-selections-into-lines'
+  'ctrl-alt-l': 'editor:split-selections-into-lines'
